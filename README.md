@@ -42,7 +42,7 @@ MySQL · SQLite · MongoDB · Git · GitHub · VS Code
 ### Let's connect
 
 - GitHub: [@alifiya-shahi](https://github.com/alifiya-shahi)
-- LinkedIn: Add your LinkedIn profile link here
+- LinkedIn: [Add your LinkedIn profile link here](https://www.linkedin.com/in/alifiya-shahiwala-096809332/)
 
 ---
 
