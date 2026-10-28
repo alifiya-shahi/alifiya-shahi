@@ -26,16 +26,6 @@ HTML · CSS · JavaScript · React · Node.js · Express
 <br>
 MySQL · SQLite · MongoDB · Git · GitHub · VS Code
 
-### Some projects I've worked on
-
-| Project | What it's about |
-|---|---|
-| [AI Job Market Analysis](https://github.com/alifiya-shahi/AI-Job-Market-Analysis) | Exploring job-market data using Python and Power BI |
-| [Nykaa Cosmetics Reviews Analysis](https://github.com/alifiya-shahi/Nykaa-Cosmetics-Reviews-Analysis) | Exploring cosmetics product and review data |
-| [PRIME Finance](https://github.com/alifiya-shahi/prime-finance) | A finance-related web application |
-| [Canteen Management System](https://github.com/alifiya-shahi/cateen-management-system) | A web application for canteen operations |
-| [Hospital Bed Management UI](https://github.com/alifiya-shahi/Hospital-UI) | A hospital bed management interface |
-| [EMI Calculator](https://github.com/alifiya-shahi/EMI-CALCULATOR) | A calculator for estimating loan instalments |
 
 **[View all my projects →](https://github.com/alifiya-shahi/alifiya-shahi-portfolio)**
 
